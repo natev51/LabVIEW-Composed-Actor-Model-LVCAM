@@ -20,7 +20,6 @@
 	</Item>
 	<Item Name="Actor" Type="Folder">
 		<Item Name="Actor Overrides" Type="Folder">
-			<Item Name="Initialize.lvclass" Type="LVClass" URL="../Initialize/Initialize.lvclass"/>
 			<Item Name="Msg Receive.lvclass" Type="LVClass" URL="../Msg Receive/Msg Receive.lvclass"/>
 			<Item Name="Propagate Error.lvclass" Type="LVClass" URL="../Propagate Error/Propagate Error.lvclass"/>
 			<Item Name="Msg Remain.lvclass" Type="LVClass" URL="../Msg Remain/Msg Remain.lvclass"/>

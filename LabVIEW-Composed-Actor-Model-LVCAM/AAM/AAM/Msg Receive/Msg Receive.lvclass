@@ -15,7 +15,7 @@
 
 </Property>
 	<Item Name="Msg Receive.vi" Type="VI" URL="../Msg Receive.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%4!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!)1V%:8.U=G^Z)&amp;.F&lt;'9`!#R!=!!?!!!:#5&amp;"43ZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!F"9X2P=C"P&gt;81!/%"Q!"Y!!"]*15&amp;.,GRW&lt;'FC%UVT:S"3:7.F;8:F,GRW9WRB=X-!$EVT:S"3:7.F;8:F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"!!%!!1!"Q)!!(A!!!E!!!!!!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$7!!!!"1!%!!!!%E!B$52F=X2S&lt;XEA5W6M:D]!,%"Q!"Y!!"E*15&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#5&amp;D&gt;'^S)'^V&gt;!!Y1(!!(A!!(QF"15UO&lt;(:M;7)448.H)&amp;*F9W6J&gt;G5O&lt;(:D&lt;'&amp;T=Q!/48.H)&amp;*F9W6J&gt;G5A;7Y!!&amp;1!]!!-!!!!!!!"!!)!!!!!!!!!!!!!!!!!!!!$!A!!?!!!!!!!!!!!!!!*!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!"!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
