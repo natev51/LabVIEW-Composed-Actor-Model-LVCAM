@@ -17,10 +17,11 @@
 	<Item Name="Msg Remain.vi" Type="VI" URL="../Msg Remain.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$]!!!!"1!%!!!!2E"Q!"Y!!"=*15&amp;.,GRW&lt;'FC#UVT:SZM&gt;G.M98.T!#6"=H2J:G6Y)%&amp;D&gt;'^S)%VP:'6M,GRW&lt;'FC/EVT:SZM&gt;G.M98.T!#"!1!!"`````Q!"%F*F&lt;7&amp;J&lt;GFO:S"&amp;&lt;'6N:7ZU=Q!!.E"Q!"Y!!"Y*15&amp;.,GRW&lt;'FC%EVT:S"3:7VB;7YO&lt;(:D&lt;'&amp;T=Q!!$5VT:S"3:7VB;7YA;7Y!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!-#!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!##!!!!*!!!!!!!1!%!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>

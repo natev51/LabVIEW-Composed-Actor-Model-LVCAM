@@ -14,7 +14,6 @@
 		<Item Name="Example" Type="Folder">
 			<Item Name="Panel Event.lvlib" Type="Library" URL="../Example/Panel Event/Panel Event.lvlib"/>
 			<Item Name="Process.lvlib" Type="Library" URL="../Example/Process/Process.lvlib"/>
-			<Item Name="SubProcess.lvlib" Type="Library" URL="../Example/SubProcess/SubProcess.lvlib"/>
 		</Item>
 		<Item Name="AAM" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>

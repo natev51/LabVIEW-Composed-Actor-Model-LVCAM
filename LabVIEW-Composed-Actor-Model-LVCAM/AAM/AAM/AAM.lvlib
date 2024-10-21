@@ -11,6 +11,8 @@
 	<Item Name="Msg Q" Type="Folder">
 		<Item Name="Msg EnQ" Type="Folder">
 			<Item Name="Msg EnQ.lvclass" Type="LVClass" URL="../Msg EnQ/Msg EnQ.lvclass"/>
+			<Item Name="Normal Msg EnQ.lvclass" Type="LVClass" URL="../Normal Msg EnQ/Normal Msg EnQ.lvclass"/>
+			<Item Name="Priority Msg EnQ.lvclass" Type="LVClass" URL="../Priority Msg EnQ/Priority Msg EnQ.lvclass"/>
 		</Item>
 		<Item Name="Msg Q.lvclass" Type="LVClass" URL="../Msg Q/Msg Q.lvclass">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -20,6 +22,7 @@
 		<Item Name="Actor Overrides" Type="Folder">
 			<Item Name="Propagate Error.lvclass" Type="LVClass" URL="../Propagate Error/Propagate Error.lvclass"/>
 			<Item Name="Msg Remain.lvclass" Type="LVClass" URL="../Msg Remain/Msg Remain.lvclass"/>
+			<Item Name="Msg Receive.lvclass" Type="LVClass" URL="../Msg Receive/Msg Receive.lvclass"/>
 		</Item>
 		<Item Name="Actor.lvclass" Type="LVClass" URL="../Actor/Actor.lvclass"/>
 		<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>

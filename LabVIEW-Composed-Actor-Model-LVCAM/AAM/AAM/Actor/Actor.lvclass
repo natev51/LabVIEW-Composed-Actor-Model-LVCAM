@@ -15,10 +15,30 @@
 
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
+		<Item Name="AAM.lvlib:Msg Receive.lvclass" Type="Parent" URL="../../Msg Receive/Msg Receive.lvclass"/>
 		<Item Name="AAM.lvlib:Msg Remain.lvclass" Type="Parent" URL="../../Msg Remain/Msg Remain.lvclass"/>
 		<Item Name="AAM.lvlib:Propagate Error.lvclass" Type="Parent" URL="../../Propagate Error/Propagate Error.lvclass"/>
 		<Item Name="Create.lvlib:Create.lvclass" Type="Parent" URL="../../../Msgs/Create/Create/Create.lvclass"/>
 		<Item Name="Destroy.lvlib:Destroy.lvclass" Type="Parent" URL="../../../Msgs/Destroy/Destroy/Destroy.lvclass"/>
 		<Item Name="Last Ack.lvlib:Last Ack.lvclass" Type="Parent" URL="../../../Msgs/Last Ack/Last Ack/Last Ack.lvclass"/>
+	</Item>
+	<Item Name="Count Actors.vi" Type="VI" URL="../Count Actors.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Q!!!!!Q!%!!!!%%!B#EFO9X*F&lt;76O&gt;$]!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!!!!!!%!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">256</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Msg Loop.vi" Type="VI" URL="../Msg Loop.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#-!!!!!Q!%!!!!,%"Q!"Y!!"E*15&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#%&amp;D&gt;'^S)'FO!!"5!0!!$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1-!!(A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!"!!)!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 </LVClass>
