@@ -25,7 +25,7 @@
 			<Item Name="Msg Receive.lvclass" Type="LVClass" URL="../Msg Receive/Msg Receive.lvclass"/>
 			<Item Name="Actor Decorator.lvclass" Type="LVClass" URL="../Actor Decorator/Actor Decorator.lvclass"/>
 		</Item>
-		<Item Name="Actor.lvclass" Type="LVClass" URL="../Actor/Actor.lvclass"/>
+		<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
 		<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
 	</Item>
 </Library>
