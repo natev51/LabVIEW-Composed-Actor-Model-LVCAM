@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Actor Overrides" Type="Folder">
+	<Item Name="Overrides" Type="Folder">
 		<Item Name="Propagate Error.lvclass" Type="LVClass" URL="../Propagate Error/Propagate Error.lvclass"/>
 		<Item Name="Msg Remain.lvclass" Type="LVClass" URL="../Msg Remain/Msg Remain.lvclass"/>
 		<Item Name="Msg Receive.lvclass" Type="LVClass" URL="../Msg Receive/Msg Receive.lvclass"/>

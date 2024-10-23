@@ -21,7 +21,6 @@
 				<Item Name="LVCAM Destroy Self.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Destroy Self/LVCAM Destroy Self.lvlib"/>
 				<Item Name="LVCAM Nest Destroyed.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvlib"/>
 			</Item>
-			<Item Name="Non-Msgs" Type="Folder"/>
 			<Item Name="LVCAM.lvlib" Type="Library" URL="../AAM/LVCAM/LVCAM.lvlib"/>
 		</Item>
 		<Item Name="API.vi" Type="VI" URL="../API.vi"/>
