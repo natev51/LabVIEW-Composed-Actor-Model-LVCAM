@@ -12,24 +12,20 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Example" Type="Folder">
-			<Item Name="Panel Event.lvlib" Type="Library" URL="../Example/Panel Event/Panel Event.lvlib"/>
 			<Item Name="Process.lvlib" Type="Library" URL="../Example/Process/Process.lvlib"/>
 		</Item>
-		<Item Name="AAM" Type="Folder">
+		<Item Name="LVCAM" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Msgs" Type="Folder">
-				<Item Name="Create.lvlib" Type="Library" URL="../AAM/Msgs/Create/Create.lvlib"/>
-				<Item Name="Destroy.lvlib" Type="Library" URL="../AAM/Msgs/Destroy/Destroy.lvlib"/>
-				<Item Name="Last Ack.lvlib" Type="Library" URL="../AAM/Msgs/Last Ack/Last Ack.lvlib"/>
+				<Item Name="LVCAM Create Nest.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Create Nest/LVCAM Create Nest.lvlib"/>
+				<Item Name="LVCAM Destroy Self.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Destroy Self/LVCAM Destroy Self.lvlib"/>
+				<Item Name="LVCAM Nest Destroyed.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvlib"/>
 			</Item>
-			<Item Name="AAM.lvlib" Type="Library" URL="../AAM/AAM/AAM.lvlib"/>
+			<Item Name="Non-Msgs" Type="Folder"/>
+			<Item Name="LVCAM.lvlib" Type="Library" URL="../AAM/LVCAM/LVCAM.lvlib"/>
 		</Item>
 		<Item Name="API.vi" Type="VI" URL="../API.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Casting Utility For Actors.vim" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Actor/Casting Utility For Actors.vim"/>
-			</Item>
-		</Item>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
