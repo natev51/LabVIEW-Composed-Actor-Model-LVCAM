@@ -21,7 +21,6 @@
 		<Item Name="LVCAM.lvlib:LVCAM Msg Drop.lvclass" Type="Parent" URL="../../LVCAM Msg Drop/LVCAM Msg Drop.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Msg Receive.lvclass" Type="Parent" URL="../../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Propagate Error.lvclass" Type="Parent" URL="../../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Read LVCAM.lvclass" Type="Parent" URL="../../LVCAM Read LVCAM/LVCAM Read LVCAM.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Write LVCAM.lvclass" Type="Parent" URL="../../LVCAM Write LVCAM/LVCAM Write LVCAM.lvclass"/>
 	</Item>
 	<Item Name="Count Actors.vi" Type="VI" URL="../Count Actors.vi">
