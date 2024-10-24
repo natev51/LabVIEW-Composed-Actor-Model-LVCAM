@@ -6,11 +6,11 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Overrides" Type="Folder">
-		<Item Name="Propagate Error.lvclass" Type="LVClass" URL="../Propagate Error/Propagate Error.lvclass"/>
-		<Item Name="Msg Remain.lvclass" Type="LVClass" URL="../Msg Remain/Msg Remain.lvclass"/>
-		<Item Name="Msg Receive.lvclass" Type="LVClass" URL="../Msg Receive/Msg Receive.lvclass"/>
-		<Item Name="Read LVCAM.lvclass" Type="LVClass" URL="../Read LVCAM/Read LVCAM.lvclass"/>
-		<Item Name="Write LVCAM.lvclass" Type="LVClass" URL="../Write LVCAM/Write LVCAM.lvclass"/>
+		<Item Name="LVCAM Propagate Error.lvclass" Type="LVClass" URL="../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
+		<Item Name="LVCAM Msg Drop.lvclass" Type="LVClass" URL="../LVCAM Msg Drop/LVCAM Msg Drop.lvclass"/>
+		<Item Name="LVCAM Msg Receive.lvclass" Type="LVClass" URL="../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
+		<Item Name="LVCAM Read LVCAM.lvclass" Type="LVClass" URL="../LVCAM Read LVCAM/LVCAM Read LVCAM.lvclass"/>
+		<Item Name="LVCAM Write LVCAM.lvclass" Type="LVClass" URL="../LVCAM Write LVCAM/LVCAM Write LVCAM.lvclass"/>
 	</Item>
 	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
 	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>

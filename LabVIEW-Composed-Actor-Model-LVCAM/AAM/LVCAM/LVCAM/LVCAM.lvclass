@@ -18,11 +18,11 @@
 		<Item Name="LVCAM Create Nest.lvlib:LVCAM Create Nest.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Create Nest/LVCAM Create Nest/LVCAM Create Nest.lvclass"/>
 		<Item Name="LVCAM Destroy Self.lvlib:LVCAM Destroy Self.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Destroy Self/LVCAM Destroy Self/LVCAM Destroy Self.lvclass"/>
 		<Item Name="LVCAM Nest Destroyed.lvlib:LVCAM Nest Destroyed.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvclass"/>
-		<Item Name="LVCAM.lvlib:Msg Receive.lvclass" Type="Parent" URL="../../Msg Receive/Msg Receive.lvclass"/>
-		<Item Name="LVCAM.lvlib:Msg Remain.lvclass" Type="Parent" URL="../../Msg Remain/Msg Remain.lvclass"/>
-		<Item Name="LVCAM.lvlib:Propagate Error.lvclass" Type="Parent" URL="../../Propagate Error/Propagate Error.lvclass"/>
-		<Item Name="LVCAM.lvlib:Read LVCAM.lvclass" Type="Parent" URL="../../Read LVCAM/Read LVCAM.lvclass"/>
-		<Item Name="LVCAM.lvlib:Write LVCAM.lvclass" Type="Parent" URL="../../Write LVCAM/Write LVCAM.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Msg Drop.lvclass" Type="Parent" URL="../../LVCAM Msg Drop/LVCAM Msg Drop.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Msg Receive.lvclass" Type="Parent" URL="../../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Propagate Error.lvclass" Type="Parent" URL="../../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Read LVCAM.lvclass" Type="Parent" URL="../../LVCAM Read LVCAM/LVCAM Read LVCAM.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Write LVCAM.lvclass" Type="Parent" URL="../../LVCAM Write LVCAM/LVCAM Write LVCAM.lvclass"/>
 	</Item>
 	<Item Name="Count Actors.vi" Type="VI" URL="../Count Actors.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Q!!!!!Q!%!!!!%%!B#EFO9X*F&lt;76O&gt;$]!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!!!!!!%!!A!!!!!</Property>
