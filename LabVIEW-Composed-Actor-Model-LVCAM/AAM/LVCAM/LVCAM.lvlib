@@ -9,8 +9,8 @@
 		<Item Name="Propagate Error.lvclass" Type="LVClass" URL="../Propagate Error/Propagate Error.lvclass"/>
 		<Item Name="Msg Remain.lvclass" Type="LVClass" URL="../Msg Remain/Msg Remain.lvclass"/>
 		<Item Name="Msg Receive.lvclass" Type="LVClass" URL="../Msg Receive/Msg Receive.lvclass"/>
-		<Item Name="Self Actor Decorator.lvclass" Type="LVClass" URL="../Self Actor Decorator/Self Actor Decorator.lvclass"/>
-		<Item Name="Read Self Actor.lvclass" Type="LVClass" URL="../Read Self Actor/Read Self Actor.lvclass"/>
+		<Item Name="Read LVCAM.lvclass" Type="LVClass" URL="../Read LVCAM/Read LVCAM.lvclass"/>
+		<Item Name="Write LVCAM.lvclass" Type="LVClass" URL="../Write LVCAM/Write LVCAM.lvclass"/>
 	</Item>
 	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
 	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>

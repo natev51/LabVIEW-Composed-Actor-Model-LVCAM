@@ -21,8 +21,8 @@
 		<Item Name="LVCAM.lvlib:Msg Receive.lvclass" Type="Parent" URL="../../Msg Receive/Msg Receive.lvclass"/>
 		<Item Name="LVCAM.lvlib:Msg Remain.lvclass" Type="Parent" URL="../../Msg Remain/Msg Remain.lvclass"/>
 		<Item Name="LVCAM.lvlib:Propagate Error.lvclass" Type="Parent" URL="../../Propagate Error/Propagate Error.lvclass"/>
-		<Item Name="LVCAM.lvlib:Read Self Actor.lvclass" Type="Parent" URL="../../Read Self Actor/Read Self Actor.lvclass"/>
-		<Item Name="LVCAM.lvlib:Self Actor Decorator.lvclass" Type="Parent" URL="../../Self Actor Decorator/Self Actor Decorator.lvclass"/>
+		<Item Name="LVCAM.lvlib:Read LVCAM.lvclass" Type="Parent" URL="../../Read LVCAM/Read LVCAM.lvclass"/>
+		<Item Name="LVCAM.lvlib:Write LVCAM.lvclass" Type="Parent" URL="../../Write LVCAM/Write LVCAM.lvclass"/>
 	</Item>
 	<Item Name="Count Actors.vi" Type="VI" URL="../Count Actors.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Q!!!!!Q!%!!!!%%!B#EFO9X*F&lt;76O&gt;$]!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!!!!!!%!!A!!!!!</Property>
