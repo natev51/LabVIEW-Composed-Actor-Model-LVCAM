@@ -21,6 +21,7 @@
 		<Item Name="LVCAM.lvlib:Msg Receive.lvclass" Type="Parent" URL="../../Msg Receive/Msg Receive.lvclass"/>
 		<Item Name="LVCAM.lvlib:Msg Remain.lvclass" Type="Parent" URL="../../Msg Remain/Msg Remain.lvclass"/>
 		<Item Name="LVCAM.lvlib:Propagate Error.lvclass" Type="Parent" URL="../../Propagate Error/Propagate Error.lvclass"/>
+		<Item Name="LVCAM.lvlib:Read Self Actor.lvclass" Type="Parent" URL="../../Read Self Actor/Read Self Actor.lvclass"/>
 		<Item Name="LVCAM.lvlib:Self Actor Decorator.lvclass" Type="Parent" URL="../../Self Actor Decorator/Self Actor Decorator.lvclass"/>
 	</Item>
 	<Item Name="Count Actors.vi" Type="VI" URL="../Count Actors.vi">
@@ -34,12 +35,12 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Msg Loop.vi" Type="VI" URL="../Msg Loop.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#/!!!!!Q!%!!!!,E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).4&amp;:$15UO&lt;(:D&lt;'&amp;T=Q!)17.U&lt;X)A;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!%!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#/!!!!!Q!%!!!!,E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).4&amp;:$15UO&lt;(:D&lt;'&amp;T=Q!)4&amp;:$15UA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!%!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 	</Item>
 </LVClass>
