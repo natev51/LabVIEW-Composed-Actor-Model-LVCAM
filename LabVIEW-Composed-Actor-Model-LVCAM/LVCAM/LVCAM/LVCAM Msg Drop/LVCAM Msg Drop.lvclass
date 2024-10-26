@@ -17,11 +17,11 @@
 	<Item Name="LVCAM Msg Drop.vi" Type="VI" URL="../LVCAM Msg Drop.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;+!!!!"A!%!!!!1E"Q!"Y!!#1,4&amp;:$15UO&lt;(:M;7)74&amp;:$15UA48.H)%2S&lt;X!O&lt;(:D&lt;'&amp;T=Q!!%ER71U&amp;.)%VT:S"%=G^Q)'^V&gt;!!!3%"Q!"Y!!"E,4&amp;:$15UO&lt;(:M;7),48.H,GRW9WRB=X-!*5&amp;S&gt;'FG:8AA17.U&lt;X)A47^E:7QO&lt;(:M;7)[48.H,GRW9WRB=X-!)%"!!!(`````!!)35G6N97FO;7ZH)%6M:7VF&lt;H2T!!"!1(!!(A!!*!N-6E."43ZM&gt;GRJ9B:-6E."43".=W=A2(*P=#ZM&gt;G.M98.T!!!24&amp;:$15UA48.H)%2S&lt;X!A;7Y!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!$!!1#!!"Y!!!!!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!##!!!!*!!!!!!!1!&amp;!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342714368</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>

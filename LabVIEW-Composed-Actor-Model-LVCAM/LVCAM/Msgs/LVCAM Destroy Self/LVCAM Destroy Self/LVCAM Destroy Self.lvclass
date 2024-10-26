@@ -17,11 +17,11 @@
 	<Item Name="LVCAM Destroy Self.vi" Type="VI" URL="../LVCAM Destroy Self.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&lt;!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$U2F=X2S&lt;XFF:#"4:7RG0Q!%!!!!6E"Q!"Y!!$594&amp;:$15UA2'6T&gt;(*P?3"4:7RG,GRW&lt;'FC'ER71U&amp;.)%2F=X2S&lt;XEA5W6M:CZM&gt;G.M98.T!":-6E."43"%:8.U=G^Z)&amp;.F&lt;'9A&lt;X6U!!"51(!!(A!!.2B-6E."43"%:8.U=G^Z)&amp;.F&lt;'9O&lt;(:M;7);4&amp;:$15UA2'6T&gt;(*P?3"4:7RG,GRW9WRB=X-!&amp;5R71U&amp;.)%2F=X2S&lt;XEA5W6M:C"J&lt;A"5!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"1!&amp;!!5!"Q)!!(A!!!E!!!!*!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>

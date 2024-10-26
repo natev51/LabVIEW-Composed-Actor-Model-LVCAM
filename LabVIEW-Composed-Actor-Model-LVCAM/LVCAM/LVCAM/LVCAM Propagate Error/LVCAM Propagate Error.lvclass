@@ -17,11 +17,11 @@
 	<Item Name="LVCAM Propagate Error.vi" Type="VI" URL="../LVCAM Propagate Error.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#!!%!!!!4E"Q!"Y!!#M,4&amp;:$15UO&lt;(:M;7)&gt;4&amp;:$15UA5(*P='&amp;H982F)%6S=G^S,GRW9WRB=X-!'5R71U&amp;.)&amp;"S&lt;X"B:W&amp;U:3"&amp;=H*P=C"P&gt;81!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!%E"1!!-!!A!$!!1&amp;28*S&lt;X)!4E"Q!"Y!!#M,4&amp;:$15UO&lt;(:M;7)&gt;4&amp;:$15UA5(*P='&amp;H982F)%6S=G^S,GRW9WRB=X-!'%R71U&amp;.)&amp;"S&lt;X"B:W&amp;U:3"&amp;=H*P=C"J&lt;A!!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!&amp;!!9#!!"Y!!!!!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!*!!!!!!!1!(!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342714368</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>
