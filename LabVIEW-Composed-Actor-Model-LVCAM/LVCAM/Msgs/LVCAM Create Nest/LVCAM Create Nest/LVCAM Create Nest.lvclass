@@ -17,11 +17,11 @@
 	<Item Name="LVCAM Create Nest.vi" Type="VI" URL="../LVCAM Create Nest.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;*!=!!?!!!T&amp;UR71U&amp;.)%.S:7&amp;U:3"/:8.U,GRW&lt;'FC'5R71U&amp;.)%.S:7&amp;U:3"/:8.U,GRW9WRB=X-!&amp;5R71U&amp;.)%.S:7&amp;U:3"/:8.U)'^V&gt;!!/1$$`````"5&amp;M;7&amp;T!$"!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5R71U&amp;.,GRW9WRB=X-!#EZF=X1A17.U&lt;X)!!&amp;*!=!!?!!!T&amp;UR71U&amp;.)%.S:7&amp;U:3"/:8.U,GRW&lt;'FC'5R71U&amp;.)%.S:7&amp;U:3"/:8.U,GRW9WRB=X-!&amp;%R71U&amp;.)%.S:7&amp;U:3"/:8.U)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"!!'!!=!#!)!!(A!!!E!!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!B!!!!!1!!!!E!!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1094713472</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342976512</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>
