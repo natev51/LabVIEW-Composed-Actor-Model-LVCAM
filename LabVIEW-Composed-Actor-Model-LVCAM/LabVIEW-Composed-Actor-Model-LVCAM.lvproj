@@ -13,15 +13,16 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Example" Type="Folder">
 			<Item Name="Process.lvlib" Type="Library" URL="../Example/Process/Process.lvlib"/>
+			<Item Name="ABD.lvclass" Type="LVClass" URL="../ABD/ABD.lvclass"/>
 		</Item>
 		<Item Name="LVCAM" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Msgs" Type="Folder">
-				<Item Name="LVCAM Create Nest.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Create Nest/LVCAM Create Nest.lvlib"/>
-				<Item Name="LVCAM Destroy Self.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Destroy Self/LVCAM Destroy Self.lvlib"/>
-				<Item Name="LVCAM Nest Destroyed.lvlib" Type="Library" URL="../AAM/Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvlib"/>
+				<Item Name="LVCAM Create Nest.lvlib" Type="Library" URL="../LVCAM/Msgs/LVCAM Create Nest/LVCAM Create Nest.lvlib"/>
+				<Item Name="LVCAM Destroy Self.lvlib" Type="Library" URL="../LVCAM/Msgs/LVCAM Destroy Self/LVCAM Destroy Self.lvlib"/>
+				<Item Name="LVCAM Nest Destroyed.lvlib" Type="Library" URL="../LVCAM/Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvlib"/>
 			</Item>
-			<Item Name="LVCAM.lvlib" Type="Library" URL="../AAM/LVCAM/LVCAM.lvlib"/>
+			<Item Name="LVCAM.lvlib" Type="Library" URL="../LVCAM/LVCAM/LVCAM.lvlib"/>
 		</Item>
 		<Item Name="API.vi" Type="VI" URL="../API.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
