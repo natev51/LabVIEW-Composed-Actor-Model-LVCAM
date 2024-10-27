@@ -9,7 +9,7 @@
 		<Item Name="LVCAM Propagate Error.lvclass" Type="LVClass" URL="../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
 		<Item Name="LVCAM Msg Drop.lvclass" Type="LVClass" URL="../LVCAM Msg Drop/LVCAM Msg Drop.lvclass"/>
 		<Item Name="LVCAM Msg Receive.lvclass" Type="LVClass" URL="../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
-		<Item Name="LVCAM Write LVCAM.lvclass" Type="LVClass" URL="../LVCAM Write LVCAM/LVCAM Write LVCAM.lvclass"/>
+		<Item Name="LVCAM Write Self Actor.lvclass" Type="LVClass" URL="../LVCAM Write Self Actor/LVCAM Write Self Actor.lvclass"/>
 	</Item>
 	<Item Name="Msg.lvclass" Type="LVClass" URL="../Msg/Msg.lvclass"/>
 	<Item Name="Msg Q.lvclass" Type="LVClass" URL="../Msg Q/Msg Q.lvclass">

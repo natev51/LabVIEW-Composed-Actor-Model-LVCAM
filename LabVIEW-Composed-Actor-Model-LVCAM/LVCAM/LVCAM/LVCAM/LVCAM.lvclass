@@ -21,7 +21,7 @@
 		<Item Name="LVCAM.lvlib:LVCAM Msg Drop.lvclass" Type="Parent" URL="../../LVCAM Msg Drop/LVCAM Msg Drop.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Msg Receive.lvclass" Type="Parent" URL="../../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Propagate Error.lvclass" Type="Parent" URL="../../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Write LVCAM.lvclass" Type="Parent" URL="../../LVCAM Write LVCAM/LVCAM Write LVCAM.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Write Self Actor.lvclass" Type="Parent" URL="../../LVCAM Write Self Actor/LVCAM Write Self Actor.lvclass"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
