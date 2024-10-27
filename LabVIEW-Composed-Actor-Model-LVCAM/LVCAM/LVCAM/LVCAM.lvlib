@@ -11,10 +11,10 @@
 		<Item Name="LVCAM Msg Receive.lvclass" Type="LVClass" URL="../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
 		<Item Name="LVCAM Write LVCAM.lvclass" Type="LVClass" URL="../LVCAM Write LVCAM/LVCAM Write LVCAM.lvclass"/>
 	</Item>
-	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
-	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
 	<Item Name="Msg.lvclass" Type="LVClass" URL="../Msg/Msg.lvclass"/>
 	<Item Name="Msg Q.lvclass" Type="LVClass" URL="../Msg Q/Msg Q.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
+	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
 </Library>
