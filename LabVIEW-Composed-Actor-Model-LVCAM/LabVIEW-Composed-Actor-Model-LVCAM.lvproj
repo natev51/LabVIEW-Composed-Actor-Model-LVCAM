@@ -26,7 +26,8 @@
 		</Item>
 		<Item Name="API.vi" Type="VI" URL="../API.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Learning about Qs.vi" Type="VI" URL="../Example/Process/Process/Learning about Qs.vi"/>
+		<Item Name="Learning about Qs.vi" Type="VI" URL="../Learning about Qs.vi"/>
+		<Item Name="Qs limit test.vi" Type="VI" URL="../Qs limit test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
