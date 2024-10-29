@@ -32,6 +32,8 @@
 		<Item Name="Q Async.lvlib" Type="Library" URL="../Q Async/Q Async.lvlib"/>
 		<Item Name="Create.vi" Type="VI" URL="../Queue Async/Create.vi"/>
 		<Item Name="Loop.vi" Type="VI" URL="../Queue Async/Loop.vi"/>
+		<Item Name="Controls and Q.vi" Type="VI" URL="../Controls and Q.vi"/>
+		<Item Name="Control Loop.vi" Type="VI" URL="../Control Loop.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
