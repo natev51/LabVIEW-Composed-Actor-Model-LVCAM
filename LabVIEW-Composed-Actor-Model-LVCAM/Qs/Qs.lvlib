@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Overview of Qs.vi" Type="VI" URL="../Overview of Qs.vi"/>
-	<Item Name="Top Level.vi" Type="VI" URL="../Top Level.vi"/>
+	<Item Name="Q Overview.vi" Type="VI" URL="../Q Overview.vi"/>
+	<Item Name="Q Top Level.vi" Type="VI" URL="../Q Top Level.vi"/>
 	<Item Name="DeQ Loop.vi" Type="VI" URL="../DeQ Loop.vi"/>
 </Library>

@@ -15,7 +15,7 @@
 
 </Property>
 	<Item Name="LVCAM Propagate Error.vi" Type="VI" URL="../LVCAM Propagate Error.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;0!!!!#1!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!'E"1!!-!!1!#!!-.1X6S=G6O&gt;#"&amp;=H*P=A"/1(!!(A!!+QN-6E."43ZM&gt;GRJ9BV-6E."43"1=G^Q97&gt;B&gt;'5A28*S&lt;X)O&lt;(:D&lt;'&amp;T=Q!:4&amp;:$15UA5(*P='&amp;H982F)%6S=G^S)'^V&gt;!!31&amp;!!!Q!"!!)!!Q6&amp;=H*P=A"/1(!!(A!!+QN-6E."43ZM&gt;GRJ9BV-6E."43"1=G^Q97&gt;B&gt;'5A28*S&lt;X)O&lt;(:D&lt;'&amp;T=Q!94&amp;:$15UA5(*P='&amp;H982F)%6S=G^S)'FO!!"5!0!!$!!!!!!!"!!&amp;!!!!!!!!!!!!!!!!!!9!"Q)!!(A!!!!!!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!E!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#!!%!!!!4E"Q!"Y!!#M,4&amp;:$15UO&lt;(:M;7)&gt;4&amp;:$15UA5(*P='&amp;H982F)%6S=G^S,GRW9WRB=X-!'5R71U&amp;.)&amp;"S&lt;X"B:W&amp;U:3"&amp;=H*P=C"P&gt;81!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!%E"1!!-!!A!$!!1&amp;28*S&lt;X)!4E"Q!"Y!!#M,4&amp;:$15UO&lt;(:M;7)&gt;4&amp;:$15UA5(*P='&amp;H982F)%6S=G^S,GRW9WRB=X-!'%R71U&amp;.)&amp;"S&lt;X"B:W&amp;U:3"&amp;=H*P=C"J&lt;A!!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!&amp;!!9#!!"Y!!!!!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!*!!!!!!!1!(!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>

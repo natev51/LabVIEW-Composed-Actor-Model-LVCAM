@@ -18,25 +18,14 @@
 		<Item Name="LVCAM Create Nest.lvlib:LVCAM Create Nest.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Create Nest/LVCAM Create Nest/LVCAM Create Nest.lvclass"/>
 		<Item Name="LVCAM Destroy Self.lvlib:LVCAM Destroy Self.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Destroy Self/LVCAM Destroy Self/LVCAM Destroy Self.lvclass"/>
 		<Item Name="LVCAM Nest Destroyed.lvlib:LVCAM Nest Destroyed.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Msg Drop.lvclass" Type="Parent" URL="../../LVCAM Msg Drop/LVCAM Msg Drop.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Initialize.lvclass" Type="Parent" URL="../../LVCAM Initialize/LVCAM Initialize.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Msg Receive.lvclass" Type="Parent" URL="../../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Propagate Error.lvclass" Type="Parent" URL="../../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Write Self Actor.lvclass" Type="Parent" URL="../../LVCAM Write Self Actor/LVCAM Write Self Actor.lvclass"/>
-	</Item>
-	<Item Name="Count Actors.vi" Type="VI" URL="../Count Actors.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Q!!!!!Q!%!!!!%%!B#EFO9X*F&lt;76O&gt;$]!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!!!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">256</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Msg Loop.vi" Type="VI" URL="../Msg Loop.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#/!!!!!Q!%!!!!,E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).4&amp;:$15UO&lt;(:D&lt;'&amp;T=Q!)4&amp;:$15UA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!%!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>

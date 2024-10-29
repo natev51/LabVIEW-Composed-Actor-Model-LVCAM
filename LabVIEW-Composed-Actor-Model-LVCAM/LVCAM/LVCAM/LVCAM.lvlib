@@ -5,16 +5,12 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Overrides" Type="Folder">
+	<Item Name="Non-Msg Overrides" Type="Folder">
 		<Item Name="LVCAM Propagate Error.lvclass" Type="LVClass" URL="../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
-		<Item Name="LVCAM Msg Drop.lvclass" Type="LVClass" URL="../LVCAM Msg Drop/LVCAM Msg Drop.lvclass"/>
 		<Item Name="LVCAM Msg Receive.lvclass" Type="LVClass" URL="../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
-		<Item Name="LVCAM Write Self Actor.lvclass" Type="LVClass" URL="../LVCAM Write Self Actor/LVCAM Write Self Actor.lvclass"/>
+		<Item Name="LVCAM Initialize.lvclass" Type="LVClass" URL="../LVCAM Initialize/LVCAM Initialize.lvclass"/>
 	</Item>
 	<Item Name="Msg.lvclass" Type="LVClass" URL="../Msg/Msg.lvclass"/>
-	<Item Name="Msg Q.lvclass" Type="LVClass" URL="../Msg Q/Msg Q.lvclass">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
 	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
 	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
 </Library>
