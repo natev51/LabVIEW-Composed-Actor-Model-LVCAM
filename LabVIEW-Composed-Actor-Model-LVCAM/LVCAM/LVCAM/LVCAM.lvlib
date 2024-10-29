@@ -6,9 +6,9 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Non-Msg Overrides" Type="Folder">
-		<Item Name="LVCAM Propagate Error.lvclass" Type="LVClass" URL="../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
-		<Item Name="LVCAM Msg Receive.lvclass" Type="LVClass" URL="../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
 		<Item Name="LVCAM Initialize.lvclass" Type="LVClass" URL="../LVCAM Initialize/LVCAM Initialize.lvclass"/>
+		<Item Name="LVCAM Msg Receive.lvclass" Type="LVClass" URL="../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
+		<Item Name="LVCAM Propagate Error.lvclass" Type="LVClass" URL="../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
 	</Item>
 	<Item Name="Msg.lvclass" Type="LVClass" URL="../Msg/Msg.lvclass"/>
 	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
