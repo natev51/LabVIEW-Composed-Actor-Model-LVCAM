@@ -26,14 +26,8 @@
 		</Item>
 		<Item Name="API.vi" Type="VI" URL="../API.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Learning about Qs.vi" Type="VI" URL="../Learning about Qs.vi"/>
-		<Item Name="Qs limit test.vi" Type="VI" URL="../Qs limit test.vi"/>
-		<Item Name="DVR Qs limit test.vi" Type="VI" URL="../DVR Qs limit test.vi"/>
-		<Item Name="Q Async.lvlib" Type="Library" URL="../Q Async/Q Async.lvlib"/>
-		<Item Name="Create.vi" Type="VI" URL="../Queue Async/Create.vi"/>
-		<Item Name="Loop.vi" Type="VI" URL="../Queue Async/Loop.vi"/>
-		<Item Name="Controls and Q.vi" Type="VI" URL="../Controls and Q.vi"/>
-		<Item Name="Control Loop.vi" Type="VI" URL="../Control Loop.vi"/>
+		<Item Name="Qs.lvlib" Type="Library" URL="../Qs/Qs.lvlib"/>
+		<Item Name="DVR Qs.lvlib" Type="Library" URL="../DVR Qs/DVR Qs.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

@@ -5,15 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="initial testing" Type="Folder">
-		<Item Name="Basic Qs.vi" Type="VI" URL="../Basic Qs.vi"/>
-		<Item Name="Basic DVR Qs.vi" Type="VI" URL="../Basic DVR Qs.vi"/>
-		<Item Name="Q Create Async.vi" Type="VI" URL="../Q Create Async.vi"/>
-		<Item Name="DVR Q Create Async.vi" Type="VI" URL="../DVR Q Create Async.vi"/>
-		<Item Name="Q Loop.vi" Type="VI" URL="../Q Loop.vi"/>
-		<Item Name="DVR Q Loop.vi" Type="VI" URL="../DVR Q Loop.vi"/>
-	</Item>
-	<Item Name="next testing" Type="Folder">
-		<Item Name="Testing new Qs.vi" Type="VI" URL="../Testing new Qs.vi"/>
-	</Item>
+	<Item Name="Overview of DVR Qs.vi" Type="VI" URL="../Overview of DVR Qs.vi"/>
+	<Item Name="Top Level.vi" Type="VI" URL="../Top Level.vi"/>
+	<Item Name="DeQ Loop.vi" Type="VI" URL="../DeQ Loop.vi"/>
 </Library>
