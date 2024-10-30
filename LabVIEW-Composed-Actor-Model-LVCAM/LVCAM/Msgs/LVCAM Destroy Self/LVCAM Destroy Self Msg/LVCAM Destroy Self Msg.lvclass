@@ -55,7 +55,7 @@
 	<Item Name="Create Object.vi" Type="VI" URL="../Create Object.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#_!!!!!Q!%!!!!8E"Q!"Y!!$E94&amp;:$15UA2'6T&gt;(*P?3"4:7RG,GRW&lt;'FC(ER71U&amp;.)%2F=X2S&lt;XEA5W6M:C".=W=O&lt;(:D&lt;'&amp;T=Q!;4&amp;:$15UA2'6T&gt;(*P?3"4:7RG)%VT:S"P&gt;81!!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!!!!!A!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
