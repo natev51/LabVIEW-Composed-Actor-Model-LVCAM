@@ -12,8 +12,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Example" Type="Folder">
-			<Item Name="Process.lvlib" Type="Library" URL="../Example/Process/Process.lvlib"/>
 			<Item Name="Open UI.lvlib" Type="Library" URL="../Example/Open UI/Open UI.lvlib"/>
+			<Item Name="ABD.lvlib" Type="Library" URL="../Example/ABD/ABD.lvlib"/>
 		</Item>
 		<Item Name="LVCAM" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>

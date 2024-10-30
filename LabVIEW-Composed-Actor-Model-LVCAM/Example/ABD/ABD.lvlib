@@ -4,5 +4,5 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Process.lvclass" Type="LVClass" URL="../Process/Process.lvclass"/>
+	<Item Name="ABD.lvclass" Type="LVClass" URL="../ABD/ABD.lvclass"/>
 </Library>

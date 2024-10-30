@@ -18,8 +18,8 @@
 		<Item Name="LVCAM Create Nest.lvlib:LVCAM Create Nest.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Create Nest/LVCAM Create Nest/LVCAM Create Nest.lvclass"/>
 		<Item Name="LVCAM Destroy Self.lvlib:LVCAM Destroy Self.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Destroy Self/LVCAM Destroy Self/LVCAM Destroy Self.lvclass"/>
 		<Item Name="LVCAM Nest Destroyed.lvlib:LVCAM Nest Destroyed.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Create.lvclass" Type="Parent" URL="../../LVCAM Create/LVCAM Create.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Destroy.lvclass" Type="Parent" URL="../../LVCAM Destroy/LVCAM Destroy.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Initialize.lvclass" Type="Parent" URL="../../LVCAM Initialize/LVCAM Initialize.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Msg Receive.lvclass" Type="Parent" URL="../../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Propagate Error.lvclass" Type="Parent" URL="../../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
 	</Item>
