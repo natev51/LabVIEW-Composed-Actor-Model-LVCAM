@@ -10,9 +10,9 @@
 	<Property Name="NI.LVClass.IsInterface" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.0</Property>
 	<Item Name="Open UI.vi" Type="VI" URL="../Open UI.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%F!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!@$5^Q:7YA65EO&lt;(:M;7)04X"F&lt;C"633ZM&gt;G.M98.T!!N0='6O)&amp;6*)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$2!=!!?!!!@$5^Q:7YA65EO&lt;(:M;7)04X"F&lt;C"633ZM&gt;G.M98.T!!J0='6O)&amp;6*)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&amp;!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!@$5^Q:7YA65EO&lt;(:M;7)04X"F&lt;C"633ZM&gt;G.M98.T!!N0='6O)&amp;6*)'^V&gt;!!U1(!!(A!!(QV0='6O)&amp;6*,GRW&lt;'FC$U^Q:7YA65EO&lt;(:D&lt;'&amp;T=Q!+4X"F&lt;C"633"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!1!"!!%!!9#!!"Y!!!*!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!1!(!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1073741984</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
