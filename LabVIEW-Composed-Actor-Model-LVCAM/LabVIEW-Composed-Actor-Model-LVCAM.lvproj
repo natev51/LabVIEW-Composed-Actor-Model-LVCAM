@@ -15,6 +15,8 @@
 			<Item Name="Open UI.lvlib" Type="Library" URL="../Example/Open UI/Open UI.lvlib"/>
 			<Item Name="ABD.lvlib" Type="Library" URL="../Example/ABD/ABD.lvlib"/>
 			<Item Name="Main.vi" Type="VI" URL="../Example/Main.vi"/>
+			<Item Name="Panel.lvclass" Type="LVClass" URL="../Panel/Panel.lvclass"/>
+			<Item Name="ABD Panel.lvclass" Type="LVClass" URL="../ABD Panel/ABD Panel.lvclass"/>
 		</Item>
 		<Item Name="LVCAM" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
