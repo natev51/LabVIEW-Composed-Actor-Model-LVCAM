@@ -14,6 +14,7 @@
 		<Item Name="Example" Type="Folder">
 			<Item Name="Open UI.lvlib" Type="Library" URL="../Example/Open UI/Open UI.lvlib"/>
 			<Item Name="ABD.lvlib" Type="Library" URL="../Example/ABD/ABD.lvlib"/>
+			<Item Name="Main.vi" Type="VI" URL="../Example/Main.vi"/>
 		</Item>
 		<Item Name="LVCAM" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -25,7 +26,6 @@
 			<Item Name="LVCAM.lvlib" Type="Library" URL="../LVCAM/LVCAM/LVCAM.lvlib"/>
 		</Item>
 		<Item Name="API.vi" Type="VI" URL="../API.vi"/>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Qs.lvlib" Type="Library" URL="../Qs/Qs.lvlib"/>
 		<Item Name="DVR Qs.lvlib" Type="Library" URL="../DVR Qs/DVR Qs.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
