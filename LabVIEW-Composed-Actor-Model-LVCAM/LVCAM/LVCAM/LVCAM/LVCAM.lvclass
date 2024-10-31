@@ -20,17 +20,17 @@
 		<Item Name="LVCAM Nest Destroyed.lvlib:LVCAM Nest Destroyed.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Create.lvclass" Type="Parent" URL="../../LVCAM Create/LVCAM Create.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Destroy.lvclass" Type="Parent" URL="../../LVCAM Destroy/LVCAM Destroy.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Msg Receive.lvclass" Type="Parent" URL="../../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Propagate Error.lvclass" Type="Parent" URL="../../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Error.lvclass" Type="Parent" URL="../../LVCAM Error/LVCAM Error.lvclass"/>
+		<Item Name="LVCAM.lvlib:LVCAM Receive.lvclass" Type="Parent" URL="../../LVCAM Receive/LVCAM Receive.lvclass"/>
 	</Item>
 	<Item Name="Msg Loop.vi" Type="VI" URL="../Msg Loop.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#/!!!!!Q!%!!!!,E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).4&amp;:$15UO&lt;(:D&lt;'&amp;T=Q!)4&amp;:$15UA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!%!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#+!!!!!Q!%!!!!+E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).4&amp;:$15UO&lt;(:D&lt;'&amp;T=Q!&amp;4&amp;:$15U!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")!!!!!!1!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342714384</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>

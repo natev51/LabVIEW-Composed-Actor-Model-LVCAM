@@ -7,11 +7,16 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Non-Msg Overrides" Type="Folder">
 		<Item Name="LVCAM Create.lvclass" Type="LVClass" URL="../LVCAM Create/LVCAM Create.lvclass"/>
-		<Item Name="LVCAM Msg Receive.lvclass" Type="LVClass" URL="../LVCAM Msg Receive/LVCAM Msg Receive.lvclass"/>
-		<Item Name="LVCAM Propagate Error.lvclass" Type="LVClass" URL="../LVCAM Propagate Error/LVCAM Propagate Error.lvclass"/>
+		<Item Name="LVCAM Receive.lvclass" Type="LVClass" URL="../LVCAM Receive/LVCAM Receive.lvclass"/>
+		<Item Name="LVCAM Error.lvclass" Type="LVClass" URL="../LVCAM Error/LVCAM Error.lvclass"/>
 		<Item Name="LVCAM Destroy.lvclass" Type="LVClass" URL="../LVCAM Destroy/LVCAM Destroy.lvclass"/>
+	</Item>
+	<Item Name="State" Type="Folder">
+		<Item Name="Actor State.lvclass" Type="LVClass" URL="../Actor State/Actor State.lvclass"/>
+		<Item Name="Msging Actor State.lvclass" Type="LVClass" URL="../Msging Actor State/Msging Actor State.lvclass"/>
+		<Item Name="Destroying Actor State.lvclass" Type="LVClass" URL="../Destroying Actor State/Destroying Actor State.lvclass"/>
 	</Item>
 	<Item Name="Msg.lvclass" Type="LVClass" URL="../Msg/Msg.lvclass"/>
 	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
-	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
+	<Item Name="Actor.lvclass" Type="LVClass" URL="../Actor/Actor.lvclass"/>
 </Library>
