@@ -20,7 +20,6 @@
 		<Item Name="LVCAM Nest Destroyed.lvlib:LVCAM Nest Destroyed.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Create.lvclass" Type="Parent" URL="../../LVCAM Create/LVCAM Create.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Destroy.lvclass" Type="Parent" URL="../../LVCAM Destroy/LVCAM Destroy.lvclass"/>
-		<Item Name="LVCAM.lvlib:LVCAM Error.lvclass" Type="Parent" URL="../../LVCAM Error/LVCAM Error.lvclass"/>
 		<Item Name="LVCAM.lvlib:LVCAM Receive.lvclass" Type="Parent" URL="../../LVCAM Receive/LVCAM Receive.lvclass"/>
 	</Item>
 	<Item Name="Msg Loop.vi" Type="VI" URL="../Msg Loop.vi">

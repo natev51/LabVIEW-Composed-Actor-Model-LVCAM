@@ -15,7 +15,7 @@
 
 </Property>
 	<Item Name="LVCAM Destroy Self.vi" Type="VI" URL="../LVCAM Destroy Self.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;8!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#E2F=X2S&lt;XFF:$]!!!1!!!"71(!!(A!!.2B-6E."43"%:8.U=G^Z)&amp;.F&lt;'9O&lt;(:M;7);4&amp;:$15UA2'6T&gt;(*P?3"4:7RG,GRW9WRB=X-!&amp;ER71U&amp;.)%2F=X2S&lt;XEA5W6M:C"P&gt;81!!&amp;2!=!!?!!!V'%R71U&amp;.)%2F=X2S&lt;XEA5W6M:CZM&gt;GRJ9BJ-6E."43"%:8.U=G^Z)&amp;.F&lt;'9O&lt;(:D&lt;'&amp;T=Q!64&amp;:$15UA2'6T&gt;(*P?3"4:7RG)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!&amp;!!5!"1!(!A!!?!!!#1!!!!E!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;(!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;:!=!!?!!!V'%R71U&amp;.)%2F=X2S&lt;XEA5W6M:CZM&gt;GRJ9BJ-6E."43"%:8.U=G^Z)&amp;.F&lt;'9O&lt;(:D&lt;'&amp;T=Q!74&amp;:$15UA2'6T&gt;(*P?3"4:7RG)'^V&gt;!!!6%"Q!"Y!!$594&amp;:$15UA2'6T&gt;(*P?3"4:7RG,GRW&lt;'FC'ER71U&amp;.)%2F=X2S&lt;XEA5W6M:CZM&gt;G.M98.T!"6-6E."43"%:8.U=G^Z)&amp;.F&lt;'9A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!1!"!!%!!9#!!"Y!!!*!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!1!(!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
