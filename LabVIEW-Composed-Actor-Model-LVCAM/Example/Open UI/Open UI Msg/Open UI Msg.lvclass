@@ -22,7 +22,7 @@
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
-		<Item Name="LVCAM.lvlib:Msg.lvclass" Type="Parent" URL="../../../../LVCAM/LVCAM/Msg/Msg.lvclass"/>
+		<Item Name="LVCAM.lvlib:Msg Strategy.lvclass" Type="Parent" URL="../../../../LVCAM/LVCAM/Msg Strategy/Msg Strategy.lvclass"/>
 		<Item Name="Open UI.lvlib:Open UI.lvclass" Type="Parent" URL="../../Open UI/Open UI.lvclass"/>
 	</Item>
 	<Item Name="Open UI Msg.ctl" Type="Class Private Data" URL="Open UI Msg.ctl">
@@ -31,21 +31,21 @@
 	<Item Name="Open UI.vi" Type="VI" URL="../Open UI.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%6!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!D$5^Q:7YA65EO&lt;(:M;7)44X"F&lt;C"633".=W=O&lt;(:D&lt;'&amp;T=Q!04X"F&lt;C"633".=W=A&lt;X6U!$R!=!!?!!!D$5^Q:7YA65EO&lt;(:M;7)44X"F&lt;C"633".=W=O&lt;(:D&lt;'&amp;T=Q!/4X"F&lt;C"633".=W=A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!%!!1!"!!'!A!!?!!!#1!!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!"Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741984</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1094713472</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Msg.vi" Type="VI" URL="../Msg.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!)1^%:8.U=G^Z:71A5W6M:D]!,E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).4&amp;:$15UO&lt;(:D&lt;'&amp;T=Q!*4&amp;:$15UA&lt;X6U!#Z!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5R71U&amp;.,GRW9WRB=X-!#%R71U&amp;.)'FO!!!]1(!!(A!!)QV0='6O)&amp;6*,GRW&lt;'FC%U^Q:7YA65EA48.H,GRW9WRB=X-!$E^Q:7YA65EA48.H)'FO!!"5!0!!$!!$!!1!"1!%!!1!"A!%!!=!"!!%!!1!#!-!!(A!!!E!!!!!!!!!#1!!!!!!!!!!!!!!$1=!!!!!!!!3!!!!!!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#5R71U&amp;.)'^V&gt;!!O1(!!(A!!'QN-6E."43ZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!B-6E."43"J&lt;A!!0%"Q!"Y!!#-.4X"F&lt;C"633ZM&gt;GRJ9B.0='6O)&amp;6*)%VT:SZM&gt;G.M98.T!!Z0='6O)&amp;6*)%VT:S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"!!%!!5!"!!'!!1!"!!%!!=$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!U(!!!!!!!!%A!!!!!!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1074274832</Property>
 	</Item>
 	<Item Name="Create Object.vi" Type="VI" URL="../Create Object.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#=!!!!!Q!%!!!!0%"Q!"Y!!#-.4X"F&lt;C"633ZM&gt;GRJ9B.0='6O)&amp;6*)%VT:SZM&gt;G.M98.T!!^0='6O)&amp;6*)%VT:S"P&gt;81!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!!#!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!#!!!!!!</Property>

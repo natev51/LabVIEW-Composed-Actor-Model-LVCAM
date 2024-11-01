@@ -5,13 +5,16 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Non-Msg Overrides" Type="Folder">
-		<Item Name="LVCAM Create.lvclass" Type="LVClass" URL="../LVCAM Create/LVCAM Create.lvclass"/>
-		<Item Name="LVCAM Receive.lvclass" Type="LVClass" URL="../LVCAM Receive/LVCAM Receive.lvclass"/>
-		<Item Name="LVCAM Destroy.lvclass" Type="LVClass" URL="../LVCAM Destroy/LVCAM Destroy.lvclass"/>
+	<Item Name="Msg Q DVR" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Obtain Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Obtain Msg Q DVR.vi"/>
+		<Item Name="EnQ Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/EnQ Msg Q DVR.vi"/>
+		<Item Name="DeQ Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/DeQ Msg Q DVR.vi"/>
+		<Item Name="Status Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Status Msg Q DVR.vi"/>
+		<Item Name="Release Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Release Msg Q DVR.vi"/>
 	</Item>
 	<Item Name="State" Type="Folder"/>
-	<Item Name="Msg.lvclass" Type="LVClass" URL="../Msg/Msg.lvclass"/>
-	<Item Name="LVCAM.lvclass" Type="LVClass" URL="../LVCAM/LVCAM.lvclass"/>
+	<Item Name="Msg Strategy.lvclass" Type="LVClass" URL="../Msg Strategy/Msg Strategy.lvclass"/>
 	<Item Name="Actor.lvclass" Type="LVClass" URL="../Actor/Actor.lvclass"/>
+	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
 </Library>

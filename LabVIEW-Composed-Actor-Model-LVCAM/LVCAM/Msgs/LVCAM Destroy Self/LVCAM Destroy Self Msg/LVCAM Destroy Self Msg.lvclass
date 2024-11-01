@@ -28,7 +28,7 @@
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
 		<Item Name="LVCAM Destroy Self.lvlib:LVCAM Destroy Self.lvclass" Type="Parent" URL="../../LVCAM Destroy Self/LVCAM Destroy Self.lvclass"/>
-		<Item Name="LVCAM.lvlib:Msg.lvclass" Type="Parent" URL="../../../../LVCAM/Msg/Msg.lvclass"/>
+		<Item Name="LVCAM.lvlib:Msg Strategy.lvclass" Type="Parent" URL="../../../../LVCAM/Msg Strategy/Msg Strategy.lvclass"/>
 	</Item>
 	<Item Name="LVCAM Destroy Self Msg.ctl" Type="Class Private Data" URL="LVCAM Destroy Self Msg.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -44,13 +44,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Msg.vi" Type="VI" URL="../Msg.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;2!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#R!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5R71U&amp;.,GRW9WRB=X-!"U&amp;#2#"P&gt;81!,%"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).4&amp;:$15UO&lt;(:D&lt;'&amp;T=Q!'15*%)'FO!!"=1(!!(A!!/2B-6E."43"%:8.U=G^Z)&amp;.F&lt;'9O&lt;(:M;7)?4&amp;:$15UA2'6T&gt;(*P?3"4:7RG)%VT:SZM&gt;G.M98.T!"F-6E."43"%:8.U=G^Z)&amp;.F&lt;'9A48.H)'FO!&amp;1!]!!-!!-!"!!%!!1!"!!&amp;!!1!"A!%!!1!"!!(!Q!!?!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!."Q!!!!!!!")!!!!!!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;2!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#R!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!"U&amp;#2#"P&gt;81!,%"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!'15*%)'FO!!"=1(!!(A!!/2B-6E."43"%:8.U=G^Z)&amp;.F&lt;'9O&lt;(:M;7)?4&amp;:$15UA2'6T&gt;(*P?3"4:7RG)%VT:SZM&gt;G.M98.T!"F-6E."43"%:8.U=G^Z)&amp;.F&lt;'9A48.H)'FO!&amp;1!]!!-!!-!"!!%!!1!"!!&amp;!!1!"A!%!!1!"!!(!Q!!?!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!."Q!!!!!!!")!!!!!!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">50331776</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1074274832</Property>
 	</Item>
 	<Item Name="Send.vi" Type="VI" URL="../Send.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#_!!!!!Q!%!!!!8E"Q!"Y!!$E94&amp;:$15UA2'6T&gt;(*P?3"4:7RG,GRW&lt;'FC(ER71U&amp;.)%2F=X2S&lt;XEA5W6M:C".=W=O&lt;(:D&lt;'&amp;T=Q!;4&amp;:$15UA2'6T&gt;(*P?3"4:7RG)%VT:S"P&gt;81!!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!!!!!A!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!A!!!!!</Property>
