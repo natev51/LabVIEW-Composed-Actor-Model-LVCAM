@@ -13,7 +13,6 @@
 		<Item Name="Status Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Status Msg Q DVR.vi"/>
 		<Item Name="Release Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Release Msg Q DVR.vi"/>
 	</Item>
-	<Item Name="State" Type="Folder"/>
 	<Item Name="Msg Strategy.lvclass" Type="LVClass" URL="../Msg Strategy/Msg Strategy.lvclass"/>
 	<Item Name="Actor.lvclass" Type="LVClass" URL="../Actor/Actor.lvclass"/>
 	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
