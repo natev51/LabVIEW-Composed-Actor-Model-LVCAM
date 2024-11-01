@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Example" Type="Folder">
 			<Item Name="Open UI.lvlib" Type="Library" URL="../Example/Open UI/Open UI.lvlib"/>
-			<Item Name="ABD.lvlib" Type="Library" URL="../Example/ABD/ABD.lvlib"/>
+			<Item Name="Dev Actor.lvlib" Type="Library" URL="../Example/Dev Actor/Dev Actor.lvlib"/>
 			<Item Name="Main.vi" Type="VI" URL="../Example/Main.vi"/>
 			<Item Name="Panel.lvclass" Type="LVClass" URL="../Panel/Panel.lvclass"/>
 			<Item Name="ABD Panel.lvclass" Type="LVClass" URL="../ABD Panel/ABD Panel.lvclass"/>
