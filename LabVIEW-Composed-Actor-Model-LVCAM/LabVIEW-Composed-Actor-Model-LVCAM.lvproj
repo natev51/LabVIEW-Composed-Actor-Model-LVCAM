@@ -22,8 +22,8 @@
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Msgs" Type="Folder">
 				<Item Name="Actor Create.lvlib" Type="Library" URL="../LVCAM/Msgs/Actor Create/Actor Create.lvlib"/>
-				<Item Name="LVCAM Destroy Self.lvlib" Type="Library" URL="../LVCAM/Msgs/LVCAM Destroy Self/LVCAM Destroy Self.lvlib"/>
-				<Item Name="LVCAM Nest Destroyed.lvlib" Type="Library" URL="../LVCAM/Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvlib"/>
+				<Item Name="Actor Destroy.lvlib" Type="Library" URL="../LVCAM/Msgs/Actor Destroy/Actor Destroy.lvlib"/>
+				<Item Name="Actor Last Ack.lvlib" Type="Library" URL="../LVCAM/Msgs/Actor Last Ack/Actor Last Ack.lvlib"/>
 			</Item>
 			<Item Name="LVCAM.lvlib" Type="Library" URL="../LVCAM/LVCAM/LVCAM.lvlib"/>
 		</Item>

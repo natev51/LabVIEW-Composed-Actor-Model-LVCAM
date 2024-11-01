@@ -17,8 +17,8 @@
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
 		<Item Name="Actor Create.lvlib:Actor Create.lvclass" Type="Parent" URL="../../../Msgs/Actor Create/Actor Create/Actor Create.lvclass"/>
-		<Item Name="LVCAM Destroy Self.lvlib:LVCAM Destroy Self.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Destroy Self/LVCAM Destroy Self/LVCAM Destroy Self.lvclass"/>
-		<Item Name="LVCAM Nest Destroyed.lvlib:LVCAM Nest Destroyed.lvclass" Type="Parent" URL="../../../Msgs/LVCAM Nest Destroyed/LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvclass"/>
+		<Item Name="Actor Destroy.lvlib:Actor Destroy.lvclass" Type="Parent" URL="../../../Msgs/Actor Destroy/Actor Destroy/Actor Destroy.lvclass"/>
+		<Item Name="Actor Last Ack.lvlib:Actor Last Ack.lvclass" Type="Parent" URL="../../../Msgs/Actor Last Ack/Actor Last Ack/Actor Last Ack.lvclass"/>
 	</Item>
 	<Item Name="Actor Setup.vi" Type="VI" URL="../Actor Setup.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%D!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#5&amp;D&gt;'^S)'^V&gt;!!K1(!!(A!!'QN-6E."43ZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!6"9X2P=A!O1(!!(A!!'QN-6E."43ZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!B"9X2P=C"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!1!"!!'!!=#!!"Y!!!*!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!*!!!!!!!1!)!!!!!!</Property>
@@ -31,13 +31,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Actor Receive.vi" Type="VI" URL="../Actor Receive.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$R!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!:#UR71U&amp;.,GRW&lt;'FC#UVT:SZM&gt;G.M98.T!!..=W=!,E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!)17.U&lt;X)A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!1!"!!%!!1!"!!%!!1!"!!'!A!!?!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!"Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$\!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$"!=!!?!!!C#UR71U&amp;.,GRW&lt;'FC&amp;%VT:S"4&gt;(*B&gt;'6H?3ZM&gt;G.M98.T!!!$48.H!#Z!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#%&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"!!%!!1!"A)!!(A!!!E!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!E!!!!!!"!!=!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Actor Teardown.vi" Type="VI" URL="../Actor Teardown.vi">

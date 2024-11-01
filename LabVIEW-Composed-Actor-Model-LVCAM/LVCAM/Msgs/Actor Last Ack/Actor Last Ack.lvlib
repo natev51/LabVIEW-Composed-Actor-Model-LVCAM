@@ -5,6 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="LVCAM Nest Destroyed.lvclass" Type="LVClass" URL="../LVCAM Nest Destroyed/LVCAM Nest Destroyed.lvclass"/>
-	<Item Name="LVCAM Nest Destroyed Msg.lvclass" Type="LVClass" URL="../LVCAM Nest Destroyed Msg/LVCAM Nest Destroyed Msg.lvclass"/>
+	<Item Name="Actor Last Ack.lvclass" Type="LVClass" URL="../Actor Last Ack/Actor Last Ack.lvclass"/>
+	<Item Name="Actor Last Ack Msg Strategy.lvclass" Type="LVClass" URL="../Actor Last Ack Msg Strategy/Actor Last Ack Msg Strategy.lvclass"/>
 </Library>
