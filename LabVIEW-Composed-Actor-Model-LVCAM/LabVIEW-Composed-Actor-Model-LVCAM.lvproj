@@ -11,14 +11,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="State" Type="Folder">
-			<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
-		</Item>
-		<Item Name="Panel" Type="Folder">
-			<Item Name="Panel.lvclass" Type="LVClass" URL="../Panel/Panel.lvclass"/>
-		</Item>
-		<Item Name="Example" Type="Folder">
+		<Item Name="Additional *Packages*" Type="Folder">
+			<Item Name="State" Type="Folder">
+				<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
+			</Item>
 			<Item Name="Panel" Type="Folder">
+				<Item Name="Panel.lvclass" Type="LVClass" URL="../Panel/Panel.lvclass"/>
+			</Item>
+		</Item>
+		<Item Name="Dev Actor" Type="Folder">
+			<Item Name="Dev Actor Panel" Type="Folder">
 				<Item Name="UEs.ctl" Type="VI" URL="../Example/UEs.ctl"/>
 				<Item Name="ABD Panel.lvclass" Type="LVClass" URL="../Example/ABD Panel/ABD Panel.lvclass"/>
 			</Item>
@@ -35,8 +37,6 @@
 			<Item Name="LVCAM.lvlib" Type="Library" URL="../LVCAM/LVCAM/LVCAM.lvlib"/>
 		</Item>
 		<Item Name="API.vi" Type="VI" URL="../API.vi"/>
-		<Item Name="Qs.lvlib" Type="Library" URL="../Qs/Qs.lvlib"/>
-		<Item Name="DVR Qs.lvlib" Type="Library" URL="../DVR Qs/DVR Qs.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>

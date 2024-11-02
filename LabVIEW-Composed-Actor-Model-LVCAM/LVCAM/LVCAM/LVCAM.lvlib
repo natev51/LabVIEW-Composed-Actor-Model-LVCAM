@@ -14,6 +14,7 @@
 		<Item Name="Release Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Release Msg Q DVR.vi"/>
 	</Item>
 	<Item Name="Self Actor State" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Self Actor State.lvclass" Type="LVClass" URL="../Self Actor State/Self Actor State.lvclass"/>
 		<Item Name="Msging Self Actor State.lvclass" Type="LVClass" URL="../Msging Self Actor State/Msging Self Actor State.lvclass"/>
 		<Item Name="Destroying Self Actor State.lvclass" Type="LVClass" URL="../Destroying Self Actor State/Destroying Self Actor State.lvclass"/>
