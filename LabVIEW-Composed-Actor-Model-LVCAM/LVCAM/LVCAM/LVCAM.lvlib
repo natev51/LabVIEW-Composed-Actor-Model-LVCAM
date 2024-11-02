@@ -13,7 +13,7 @@
 		<Item Name="Status Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Status Msg Q DVR.vi"/>
 		<Item Name="Release Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Release Msg Q DVR.vi"/>
 	</Item>
-	<Item Name="State" Type="Folder">
+	<Item Name="Self Actor State" Type="Folder">
 		<Item Name="Self Actor State.lvclass" Type="LVClass" URL="../Self Actor State/Self Actor State.lvclass"/>
 		<Item Name="Msging Self Actor State.lvclass" Type="LVClass" URL="../Msging Self Actor State/Msging Self Actor State.lvclass"/>
 		<Item Name="Destroying Self Actor State.lvclass" Type="LVClass" URL="../Destroying Self Actor State/Destroying Self Actor State.lvclass"/>
