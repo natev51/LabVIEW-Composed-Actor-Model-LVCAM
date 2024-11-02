@@ -11,12 +11,19 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="State" Type="Folder">
+			<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
+		</Item>
+		<Item Name="Panel" Type="Folder">
+			<Item Name="Panel.lvclass" Type="LVClass" URL="../Panel/Panel.lvclass"/>
+		</Item>
 		<Item Name="Example" Type="Folder">
-			<Item Name="Open UI.lvlib" Type="Library" URL="../Example/Open UI/Open UI.lvlib"/>
+			<Item Name="Panel" Type="Folder">
+				<Item Name="UEs.ctl" Type="VI" URL="../Example/UEs.ctl"/>
+				<Item Name="ABD Panel.lvclass" Type="LVClass" URL="../Example/ABD Panel/ABD Panel.lvclass"/>
+			</Item>
 			<Item Name="Dev Actor.lvlib" Type="Library" URL="../Example/Dev Actor/Dev Actor.lvlib"/>
 			<Item Name="Main.vi" Type="VI" URL="../Example/Main.vi"/>
-			<Item Name="Panel.lvclass" Type="LVClass" URL="../Panel/Panel.lvclass"/>
-			<Item Name="ABD Panel.lvclass" Type="LVClass" URL="../ABD Panel/ABD Panel.lvclass"/>
 		</Item>
 		<Item Name="LVCAM" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
