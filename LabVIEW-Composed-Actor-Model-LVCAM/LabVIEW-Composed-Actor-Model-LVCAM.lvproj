@@ -22,7 +22,7 @@
 		<Item Name="Dev Actor" Type="Folder">
 			<Item Name="Dev Actor Panel" Type="Folder">
 				<Item Name="UEs.ctl" Type="VI" URL="../Example/UEs.ctl"/>
-				<Item Name="ABD Panel.lvclass" Type="LVClass" URL="../Example/ABD Panel/ABD Panel.lvclass"/>
+				<Item Name="Dev Actor Panel.lvclass" Type="LVClass" URL="../Example/Dev Actor Panel/Dev Actor Panel.lvclass"/>
 			</Item>
 			<Item Name="Dev Actor.lvlib" Type="Library" URL="../Example/Dev Actor/Dev Actor.lvlib"/>
 			<Item Name="Main.vi" Type="VI" URL="../Example/Main.vi"/>
