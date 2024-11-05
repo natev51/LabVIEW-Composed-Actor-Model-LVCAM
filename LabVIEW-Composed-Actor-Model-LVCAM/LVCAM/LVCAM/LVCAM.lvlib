@@ -5,14 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Msg Q DVR" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Obtain Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Obtain Msg Q DVR.vi"/>
-		<Item Name="EnQ Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/EnQ Msg Q DVR.vi"/>
-		<Item Name="DeQ Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/DeQ Msg Q DVR.vi"/>
-		<Item Name="Status Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Status Msg Q DVR.vi"/>
-		<Item Name="Release Msg Q DVR.vi" Type="VI" URL="../Msg Q DVR/Release Msg Q DVR.vi"/>
-	</Item>
 	<Item Name="Self Actor State" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Self Actor State.lvclass" Type="LVClass" URL="../Self Actor State/Self Actor State.lvclass"/>
