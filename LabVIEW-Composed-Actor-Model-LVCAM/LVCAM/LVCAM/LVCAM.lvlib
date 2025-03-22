@@ -20,6 +20,7 @@
 		<Item Name="Destroying Self Actor State.lvclass" Type="LVClass" URL="../Destroying Self Actor State/Destroying Self Actor State.lvclass"/>
 	</Item>
 	<Item Name="Msg Strategy.lvclass" Type="LVClass" URL="../Msg Strategy/Msg Strategy.lvclass"/>
+	<Item Name="Msg Sends.lvclass" Type="LVClass" URL="../Msg Sends/Msg Sends.lvclass"/>
 	<Item Name="Actor.lvclass" Type="LVClass" URL="../Actor/Actor.lvclass"/>
 	<Item Name="Self Actor.lvclass" Type="LVClass" URL="../Self Actor/Self Actor.lvclass"/>
 </Library>
