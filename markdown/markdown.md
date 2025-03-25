@@ -108,17 +108,3 @@ Only the actor can execute the method, or other classes/interfaces that implemen
 
 Payload Methods -> Message Methods
 
-
-
-
-Get rid of Actor_blahblah, just keep blahblah
-
-LVCAM.lvlib
--Create.lvlib
--Last Ack.lvlib
--Destroy.lvlib
--EverythingElse
-
-Rename folders on disc later.. not important now
-
-Look into interfaces (don’t override DD methods) messages done in
