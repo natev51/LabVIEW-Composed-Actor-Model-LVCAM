@@ -24,8 +24,6 @@ Message method implementation in the interface has default behavior because it i
 *but have on two lines, with decorator on third line.*
 
 
-
-
 # Nathan Decisions
 
 ## Dynamic Dispatch (DD)
@@ -79,7 +77,7 @@ Never use property node syntax with accessor methods. Use the accessor methods a
 ~~Private~~: Do not make sense since the data is already private to the class.<br>
 ~~Public~~: Encapsulation is of upmost importance. Other class objects should not have ability to read/write this data type.<br>
 Proteted: If an interface already knows the concrete classes will contain that private data.<br>
-Community: State Pattern.. only other objects that are friends.
+~~Community~~: if methods need to be called in a concrete class, then make them DD, have them in an interface, and implement the interface in the friend class. Friends are hard to track. best practice, no community.
 
 ## Wrapper Methods
 
@@ -96,6 +94,8 @@ If private data is to be accessed within the class that owns the data, always us
 ## Naming Convention
 
 Captial letters. Spaces.
+
+Since all Class and method names, controls, etc are identified by their file extension, all words start with a capital letter and words are separated with spaces. 
 
 # LVCAM - LabVIEW Composed Actor Model
 
@@ -153,21 +153,3 @@ Ideas: maybe there is some merit to change the naming to..
 
 
 
-
-Within decorator methods, comment that no additional functionality is allowed.
-
-
-State pattern, tight coupling which leads to community scope.
-Best practice to reduce coupling: community scope is used only with methods inside package
-
-
-DO have SEND MSGS methods be overridable and protected. YES! Have override methods (scripted) for these Dev Actor (green box)
-
-Delete the three Send messages from palette. 
-AHH. Maybe there is another subtype next to Self Actor that has debugging enabled?
-
-Make SubVI for launching asynchronous process.
-
-Purple for Library banner! For the four libraries in LVCAM project. Re-do the 5 Msg Q methods with banner.
-
-Since all Class and method names, controls, etc are identified by their file extension, all words start with a capital letter and words are separated with spaces. 
