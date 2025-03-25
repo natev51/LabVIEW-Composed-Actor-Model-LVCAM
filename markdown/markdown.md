@@ -108,3 +108,7 @@ Only the actor can execute the method, or other classes/interfaces that implemen
 
 Payload Methods -> Message Methods
 
+
+
+
+Change the Msg and Send to protected.
