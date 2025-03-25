@@ -25,22 +25,14 @@ Message method implementation in the interface has default behavior because it i
 
 
 
-# Solved!
-
-Problem: Need map for Nest Actors instead of set, to get the name?
-How does Send to Nest work? How to find alias inside? I don’t remember, maybe you don’t need to have map..?
-
-![alt text](image-1.png)<br>
-*Solution: NO! The queue has the name set when it was obtained.*
-
-
-
 
 # Nathan Decisions
 
 ## Dynamic Dispatch (DD)
 
 Everything is DD, declaring to the compiler that *objects* input are the same *objects* being output. If the DD method is not used in a Subclass/SubInterface, don’t implement the method.
+
+## Creating method, default should be shared clone
 
 ## Abandoning Datatype IO Serialization
 
@@ -107,6 +99,11 @@ Captial letters. Spaces.
 
 # LVCAM - LabVIEW Composed Actor Model
 
+## Actor Model
+
+![alt text](IMG_5570.png)<br>
+*Actor, Message, Message Carrier. Interfaces and implementations for each of the pieces?*
+
 ##  Message Methods
 
 Payload Methods -> Message Methods
@@ -114,6 +111,11 @@ Payload Methods -> Message Methods
 ## Message methods are protected
 
 Only the actor can execute the method, or other classes/interfaces that implement this interface containing the protected method.
+
+## Accessors in LVCAM
+
+Since inheritance is not used, accessors **are not** used very often (aside from helper classes such as State Pattern).<br>
+This is especially true with Actors. Actors are self contained and rarely will allow other classes to use its attributes.
 
 ## Mediator
 
@@ -143,3 +145,29 @@ So there is a concrete component that basically handles the business logic of th
 Ideas: maybe there is some merit to change the naming to..
 - ..Caller, Self, Subscribers?
 - ..Self, Others?
+
+
+
+
+
+
+
+
+
+Within decorator methods, comment that no additional functionality is allowed.
+
+
+State pattern, tight coupling which leads to community scope.
+Best practice to reduce coupling: community scope is used only with methods inside package
+
+
+DO have SEND MSGS methods be overridable and protected. YES! Have override methods (scripted) for these Dev Actor (green box)
+
+Delete the three Send messages from palette. 
+AHH. Maybe there is another subtype next to Self Actor that has debugging enabled?
+
+Make SubVI for launching asynchronous process.
+
+Purple for Library banner! For the four libraries in LVCAM project. Re-do the 5 Msg Q methods with banner.
+
+Since all Class and method names, controls, etc are identified by their file extension, all words start with a capital letter and words are separated with spaces. 

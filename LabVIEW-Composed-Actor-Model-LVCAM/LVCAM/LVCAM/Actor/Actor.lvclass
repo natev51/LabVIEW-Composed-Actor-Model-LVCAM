@@ -19,6 +19,7 @@
 		<Item Name="Actor Create.lvlib:Actor Create.lvclass" Type="Parent" URL="../../../Msgs/Actor Create/Actor Create/Actor Create.lvclass"/>
 		<Item Name="Actor Destroy.lvlib:Actor Destroy.lvclass" Type="Parent" URL="../../../Msgs/Actor Destroy/Actor Destroy/Actor Destroy.lvclass"/>
 		<Item Name="Actor Last Ack.lvlib:Actor Last Ack.lvclass" Type="Parent" URL="../../../Msgs/Actor Last Ack/Actor Last Ack/Actor Last Ack.lvclass"/>
+		<Item Name="LVCAM.lvlib:Msg Strategy.lvclass" Type="Parent" URL="../../Msg Strategy/Msg Strategy.lvclass"/>
 	</Item>
 	<Item Name="Msg To Caller.vi" Type="VI" URL="../Msg To Caller.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%.!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!)1V1=GFP=GFU?3".=W=`!$"!=!!?!!!C#UR71U&amp;.,GRW&lt;'FC&amp;%VT:S"4&gt;(*B&gt;'6H?3ZM&gt;G.M98.T!!!$48.H!#Z!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#%&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!1!"!!%!!1!"!!%!!1!"!!&amp;!!9!"Q)!!(A!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!1!!!!E!!!!!!"!!A!!!!!</Property>
@@ -84,6 +85,39 @@
 		<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+	</Item>
+	<Item Name="Nested Alias Unique.vi" Type="VI" URL="../Nested Alias Unique.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$\!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!)22/:8.U:71A17RJ98-A67ZJ=86F0Q!!&amp;E!Q`````QR/:8.U:71A17RJ98-!!#Z!=!!?!!!&lt;#UR71U&amp;.,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#%&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"!!%!!9!"Q)!!(A!!!E!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)1!!!!E!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+		<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+	</Item>
+	<Item Name="Nested Aliases.vi" Type="VI" URL="../Nested Aliases.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]048.H)&amp;%A2&amp;:3)%&amp;M;7&amp;T!"R!1!!"`````Q!&amp;$EZF=X2F:#""&lt;'FB=W6T!!!O1(!!(A!!'QN-6E."43ZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!B"9X2P=C"J&lt;A!!6!$Q!!Q!!Q!%!!9!"!!%!!1!"!!%!!1!"!!%!!=#!!"Y!!!*!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+		<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342714368</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+	</Item>
+	<Item Name="Nested Exist.vi" Type="VI" URL="../Nested Exist.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#A!!!!"!!%!!!!%E!B$5ZF=X2F:#"&amp;?'FT&gt;$]!,E"Q!"Y!!"M,4&amp;:$15UO&lt;(:M;7).17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!)17.U&lt;X)A;7Y!!&amp;1!]!!-!!!!!!!"!!!!!!!!!!!!!!!!!!!!!!!#!A!!?!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+		<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Actor Loop.vi" Type="VI" URL="../Actor Loop.vi">
