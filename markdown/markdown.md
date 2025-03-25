@@ -11,7 +11,9 @@ This is not an excuse to use concrete implementations here. Still use interface 
 ![alt text](image.png)<br>
 *Interfaces changed to NOT override in ALL of DD methods and set to `Shared Clone`.*
 
+### Message methods in Interface
 
+Message method implementation in the interface has default behavior because it is not checked as must override
 
 # Procedure
 
@@ -30,6 +32,9 @@ How does Send to Nest work? How to find alias inside? I don’t remember, maybe 
 
 ![alt text](image-1.png)<br>
 *Solution: NO! The queue has the name set when it was obtained.*
+
+
+
 
 # Nathan Decisions
 
@@ -100,11 +105,41 @@ If private data is to be accessed within the class that owns the data, always us
 
 Captial letters. Spaces.
 
-## Message methods are protected
-
-Only the actor can execute the method, or other classes/interfaces that implement this interface containing the protected method.
+# LVCAM - LabVIEW Composed Actor Model
 
 ##  Message Methods
 
 Payload Methods -> Message Methods
 
+## Message methods are protected
+
+Only the actor can execute the method, or other classes/interfaces that implement this interface containing the protected method.
+
+## Mediator
+
+Mediator pattern is dataflow friendly and DOES NOT cause memory leaks since a created Actor only occurs once at a time, through the mediator. And can only shut down if the mediator says that the Actor should shutdown.<br>
+The mediator knows who has whose reference to send messages. This helps establish the observer pattern too. No deadlocks can occur since the mediator operates one by one. It is the all knowing for the program, only forwarding messages to references that the message is intended for.<br>
+An actor ever only knows about the mediator.<br>
+
+### Multiple application instances
+
+Idea: have application mediator that is between all.<br>
+Or there is always a double layer of mediators? Where the top layer facilitates what the lower mediator does.. and when there is another application instance (which has its two mediators), the top mediators of both communicate to each other.<br>
+The top mediators know about each others references, so they can communicate with each other.
+
+Idea: If two applications are talking with each other, there now exist two mediators.<br>
+An idea for this: there is again a mediator that is *above?* these two mediators? Idk
+
+### Potential Future for LVCAM
+
+Kind of the same framework you currently have.. just that the messages interact with a mediator that then (since it has references to everything) sends the message to the necessary actor. Note the Self Actor still has references to its Caller, Self, and Nested.. it’s just that the mediator ALSO knows who has these references and easily sends the message to those who have the reference that the message is going to has. This provides well for the observer pattern i.e. publisher and subscriber.<br>
+There are effectively two places references are saved: Mediator and Self Actor. The Mediator always has the references and shares the necessary duplicates of references that pertain to the Self Actor since these are references to identify the Actor and how the mediator should allow the actor to interact with other actors (though, remember, the Actor doesn't know other actors exist.. only that there is a mediator).<br>
+Further, the mediator knows which methods are messages of the actor. This is known at compile time since messages are all through interfaces, allowing the mediator to know which messages the actor can execute by checking which interfaces the actor implements. This check happens in the mediator, not in the actor. This can be a set of strings relating to the method name?, so upon creation of an actor (by the mediator), the mediator holds the reference to the actor and a *set* of method names that are tied to messages.
+
+Just thinking out loud:<br>
+So there is a concrete component that basically handles the business logic of the system with other sub business logic components that are more specialized / reusable. This can be thought of as some top level actor.
+
+
+Ideas: maybe there is some merit to change the naming to..
+- ..Caller, Self, Subscribers?
+- ..Self, Others?
